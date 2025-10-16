@@ -85,4 +85,4 @@ plt.show()
 ```
 ```
 Result:
-The above program and output Data visualization using MatplotLIB
+The above code and output for the Data visualization using MatplotLIB
